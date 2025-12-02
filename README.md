@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kasiniare
-- 👀 I’m interested in expanding my skills into programming and devops
-- 🌱 I’m currently learning Python, R, C++, and Bash
-- 💞️ I’m looking to collaborate on the ideal steps to becoming a Sofware Development Engineer
+- 👋 Hi, I’m @Kasiniare, an AI Architect and Program Manager
+- 👀 I’m interested in expanding my skills within programming and devops
+- 🌱 I’m currently working in Python, R, C++, and Bash
+- 💞️ I’m looking to collaborate on the ideal steps to becoming a Site Reliability Engineer
 - 📫 How to reach me is through email at codymcgaughey@gmail.com
 
 <!---
